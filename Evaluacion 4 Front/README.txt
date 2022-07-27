@@ -2,4 +2,4 @@ PRUEBA 4 De FRONT END
 
 GERSON PLAZA
 
-Para correr el proyecto, Primero ejecutar el comando yarm, luego ejecutar el comando yarm dev
+Para correr el proyecto, Primero ejecutar el comando yarn, luego ejecutar el comando yarn dev
